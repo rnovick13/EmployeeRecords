@@ -1,3 +1,19 @@
+import React, {Component} from 'react'
+
+class createEmployeeForm extends Component {
+
+  constructor() {
+    super();
+    this.state = {
+      first: "",
+      last: "",
+      salary: "",
+      hire_date: "",
+      position: "",
+      manager: ""
+    }
+  }
+
 <form>
   <label>
     Name:
@@ -22,3 +38,7 @@
   </label>
   <input type="submit" value="submit" />
 </form>
+
+}
+
+export default createEmployeeForm
