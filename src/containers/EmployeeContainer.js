@@ -12,7 +12,7 @@ class EmployeeContainer extends Component {
     //   })
   }
   render(){
-    // const employeeCards = this.state.employees.map(employee => <EmployeeCard key={employee.id} employee={employee})
+    // const employeeCards = this.state.employees.map(employee => <EmployeeCard key={employee.id} employee={employee}) />
     return(
     //   <div>{employeeCards}</div>
     )
