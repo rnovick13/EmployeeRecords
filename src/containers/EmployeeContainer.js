@@ -7,9 +7,11 @@ class EmployeeContainer extends Component {
   }
   render(){
     return(
-      
+
     )
   }
 }
 
 export default EmployeeContainer
+
+//needs to fetch all employees and display their cards
