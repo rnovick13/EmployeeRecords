@@ -1,5 +1,5 @@
 class EmployeeSchema():
-    id = fields.Int
+    id = fields.int()
     first_name = fields.str()
     last_name = fields.str()
     salary = fields.float()
