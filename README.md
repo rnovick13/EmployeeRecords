@@ -1,5 +1,7 @@
 # EmployeeRecordsChallenge
 
-Rachel Novick's code challenge solution (front end with React).
+Rachel Novick's code challenge solution (back end Flask and front end React)
 
-The back end with React can be found at https://github.com/rnovick13/EmployeeRecordsChallenge
+run front end with npm start
+
+run back end with python3
